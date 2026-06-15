@@ -7,7 +7,7 @@ Single-page static Netlify landing page for BayouFinds Workflow Solutions.
 - `index.html` - Semantic landing page markup and Netlify discovery form.
 - `thank-you.html` - Branded confirmation page after form submission.
 - `styles.css` - Responsive styling and brand palette.
-- `script.js` - Mobile navigation and form thank-you message handling.
+- `script.js` - Mobile navigation and legacy query-string thank-you message handling.
 - `netlify.toml` - Static publish settings, headers, and thank-you redirect.
 - `README.md` - Project notes.
 
