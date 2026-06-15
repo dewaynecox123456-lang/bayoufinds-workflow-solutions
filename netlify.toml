@@ -10,5 +10,5 @@
 
 [[redirects]]
   from = "/thanks"
-  to = "/?success=true#discovery"
+  to = "/thank-you.html"
   status = 302
